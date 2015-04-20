@@ -1,0 +1,33 @@
+{
+  "name": "TSIO_POOL",
+  "version": "0.0.1",
+  "description": "Stratum Pool implementation in Node.JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmpsoares91/TSIO_POOL.git"
+  },
+  "keywords": [
+    "\"Cryptocurrency\""
+  ],
+  "author": "\"Carlos Soares <cmpsoares91@gmail.com> (https://github.com/cmpsoares91)",
+  "contributors": [
+    "José Vaz (https://github.com/JoseVaz)",
+    "Nuno Salgado (https://github.com/ncsalgado)"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/cmpsoares91/TSIO_POOL/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/cmpsoares91/TSIO_POOL/issues"
+  },
+  "homepage": "https://github.com/cmpsoares91/TSIO_POOL",
+  "dependencies": {
+    "stratum-pool": "^0.1.6"
+  }
+}
